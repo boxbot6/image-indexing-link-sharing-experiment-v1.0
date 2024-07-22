@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://boxbot6.github.io/image-indexing-link-sharing-experiment-v1/</loc>
+    <loc>https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/</loc>    
+    <loc>https://boxbot6.github.io/old-scientific-illustration-font-v1/</loc>
+    <loc>https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/</loc>
+    <loc>https://boxbot6.github.io/calculator-icon-windows-v1/</loc>
+
+
+    <image:image>
+      <image:loc>https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-2.png</image:loc>
+    </image:image>
+
+
+    <image:image>
+      <image:loc>https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-6a-strawberry-tree-familiar-trees-by-g-s-boulger.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-6b-strawberry-tree-familiar-trees-by-g-s-boulger.jpg</image:loc>
+    </image:image>          
+
+  </url>
+</urlset>

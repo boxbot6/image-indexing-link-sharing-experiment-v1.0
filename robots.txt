@@ -1,0 +1,4 @@
+Sitemap: https://github.com/boxbot6/image-indexing-link-sharing-experiment-v1/sitemap.xml
+
+User-agent: *
+Disallow:

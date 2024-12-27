@@ -116,6 +116,13 @@ Very preliminary - putting links to images on this page seems to index them a li
 
 <br />
 
+### Miscellaneous Links:
+
+[https://boxbot6.github.io/cigarette-cards-john-player-and-sons-a-nature-calendar/]((https://boxbot6.github.io/cigarette-cards-john-player-and-sons-a-nature-calendar/)
+
+
+<br />
+
 ## Outbound links to the webs most popular websites:
 
 [https://www.google.com/](https://www.google.com/)
